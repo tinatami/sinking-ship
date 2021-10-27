@@ -1,3 +1,3 @@
 # sinking-ship
 
-to die or not to die
+kaggle competition, predicts whether a passenger will survive or die
